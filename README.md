@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🎯 3D-ATRES: Ambiguity-Tolerant Learning for 3D Referring Expression Segmentation
+# 🎯 Multi-Source Disambiguation for 3D Referring Expression Segmentation
 
 
 </div>
 
 ## 🔍 Introduction
 
-**3D-ATRES** is a groundbreaking framework that tackles one of the most challenging problems in 3D vision-language understanding: **3D Referring Expression Segmentation (3D-RES)**. Unlike existing methods that struggle with real-world ambiguities, our approach specifically addresses multi-source uncertainties through innovative ambiguity-tolerant learning mechanisms.
+**Multi-Source Disambiguation for 3D Referring Expression Segmentation (MSD-3DRES)** is a groundbreaking framework that tackles one of the most challenging problems in 3D vision-language understanding: **3D Referring Expression Segmentation (3D-RES)**. Unlike existing methods that struggle with real-world ambiguities, our approach specifically addresses multi-source uncertainties through innovative ambiguity-tolerant learning mechanisms.
 
 <div style="text-align: center;">
     <img src="assets/introductionv3.png" alt="Method Overview" width="100%">
@@ -86,7 +86,7 @@ We provide an **[interactive online demo](http://521661fbe9494e65b3805ad5028c5cc
 
 ## 🗓️ Release Timeline
 
-- [x] **Sept 2025**: Visualization tools released (`web2.4_EN/`)
+- [x] **Jan. 2026**: Visualization tools released (`web2.4_EN/`)
 - [ ] **Paper Accepted**: Training code and pretrained models
 - [ ] **Paper Accepted**: Full documentation and tutorials
 - [ ] **Paper Accepted**: Extended benchmarks and applications
