@@ -61,9 +61,9 @@ Real-world 3D referring expressions often suffer from three types of ambiguity:
 | Chat-Scene  | NeurIPS'24 | Vicuna-7B | 55.5 | 50.2 | 57.1 | 52.4 |
 | LIBA| AAAI'25 | – | 59.6 | 49.0 | – | 50.2 |
 | Inst3D-LMM | CVPR'25 | Vicuna1.5-7B | 57.8 | 51.6 | 58.3 | 53.5 |
-| Video-3D LLM  | CVPR'25 | LLaVA-Video 7B | 58.1 | 51.7 | 58.0 | 52.7 |
+| Video-3D LLM  | CVPR'25 | LLaVA-Video 7B | 58.1 | **51.7** | 58.0 | 52.7 |
 | 3D-LLaVA  | CVPR'25 | LLaVA-1.5-7B | 62.8 | 45.3 | 68.7 | 49.2 |
-| MSD-3DRES (Ours) | – | LLaVA-1.5-7B | 65.9 | 50.5 | 73.7 | 55.8 |
+| MSD-3DRES (Ours) | – | LLaVA-1.5-7B | **65.9** | 50.5 | **73.7** | **55.8** |
 
 </div>
 
