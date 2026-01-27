@@ -28,7 +28,7 @@ Real-world 3D referring expressions often suffer from three types of ambiguity:
 
 | Feature | Innovation | Impact |
 |---------|------------|--------|
-| **🔄 TR² Semantic Structurizer** | Transforms free-form language into structured Target–Relation–Referent triples | Eliminates **prompt ambiguity** through semantic disambiguation |
+| **🔄 Human-in-the-Loop Structurizer** | Transforms free-form language into structured Target–Relation–Referent triples | Eliminates **prompt ambiguity** through semantic disambiguation |
 | **🧭 Normal-Aware Spatial Alignment** | Incorporates surface normal cues for geometric reasoning | Ensures **viewpoint-invariant** spatial understanding |
 | **📊 Annotation Ambiguity Penalty** | Probabilistic learning with ambiguity-aware loss functions | Robust to **inconsistent annotations** during training |
 
