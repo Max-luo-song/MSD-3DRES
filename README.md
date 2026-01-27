@@ -40,10 +40,8 @@ Real-world 3D referring expressions often suffer from three types of ambiguity:
 
 <div align="center">
 
-| Method | Venue | Base LLM | ScanRefer | Multi3DRefer |
-|--------|-------|----------|-----------|--------------|
-|        |       |          | Acc@0.25 | Acc@0.5 | F1@0.25 | F1@0.5 |
-|--------|-------|----------|-----------|---------|---------|--------|
+| Method | Venue | Base LLM | ScanRefer Acc@0.25 | ScanRefer Acc@0.5 | Multi3DRefer F1@0.25 | Multi3DRefer F1@0.5 |
+|--------|-------|----------|-------------------|------------------|---------------------|--------------------|
 | **Specialist Models** | | | | | | |
 | ScanRefer (Chen et al., 2020) | ECCV'20 | – | 42.4 | 26.0 | – | – |
 | BUTD-DETR (Jain et al., 2022) | ECCV'22 | – | 50.4 | 38.6 | – | – |
@@ -61,7 +59,7 @@ Real-world 3D referring expressions often suffer from three types of ambiguity:
 | PQ3D (Zhu et al., 2024c) | ECCV'24 | Vicuna-7B | 57.0 | 51.2 | – | – |
 | ReGround3D (Zhu et al., 2024a) | ECCV'24 | BLIP2-flant5 | 53.1 | 41.1 | – | – |
 | Chat-Scene (Huang et al., 2024) | NeurIPS'24 | Vicuna-7B | 55.5 | 50.2 | 57.1 | 52.4 |
-| LIBA (Wang et al., 2025c) | AAAI'25 | – | 59.6 | 49.0 | – | 50.2 |
+| LIBA (Wang et al., 2024c) | AAAI'25 | – | 59.6 | 49.0 | – | 50.2 |
 | Inst3D-LMM (Yu et al., 2025) | CVPR'25 | Vicuna1.5-7B | 57.8 | 51.6 | 58.3 | 53.5 |
 | Video-3D LLM (Zheng et al., 2025) | CVPR'25 | LLaVA-Video 7B | 58.1 | 51.7 | 58.0 | 52.7 |
 | 3D-LLaVA (Zhu et al., 2024b) | CVPR'25 | LLaVA-1.5-7B | 62.8 | 45.3 | 68.7 | 49.2 |
